@@ -1,8 +1,4 @@
-- 👋 Hola a todos soy Tronaves
-- 📖 Soy estudiante
-- 💻 Soy novato en la programacion
-- 👤 Tengo 18 años
-- 🗣 Mi emoji favorito 🗣🗣
+Cuenta perteneciente a Lkvs.p
 
 <!---
 Tronave/Tronave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
